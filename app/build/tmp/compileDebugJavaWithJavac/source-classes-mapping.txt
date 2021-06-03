@@ -1,0 +1,16 @@
+com/yusufcakmak/exoplayersample/videoQuality.java
+ com.yusufcakmak.exoplayersample.videoQuality
+com/yusufcakmak/exoplayersample/databinding/ExoSimplePlayerViewBinding.java
+ com.yusufcakmak.exoplayersample.databinding.ExoSimplePlayerViewBinding
+com/yusufcakmak/exoplayersample/databinding/ActivityMainBinding.java
+ com.yusufcakmak.exoplayersample.databinding.ActivityMainBinding
+com/yusufcakmak/exoplayersample/databinding/ExoPlaybackControlViewBinding.java
+ com.yusufcakmak.exoplayersample.databinding.ExoPlaybackControlViewBinding
+com/yusufcakmak/exoplayersample/BuildConfig.java
+ com.yusufcakmak.exoplayersample.BuildConfig
+com/yusufcakmak/exoplayersample/databinding/ActivityVideoPlayerBinding.java
+ com.yusufcakmak.exoplayersample.databinding.ActivityVideoPlayerBinding
+com/yusufcakmak/exoplayersample/databinding/ActivityRadioPlayerBinding.java
+ com.yusufcakmak.exoplayersample.databinding.ActivityRadioPlayerBinding
+com/yusufcakmak/exoplayersample/databinding/ActivityVideoPlayer2Binding.java
+ com.yusufcakmak.exoplayersample.databinding.ActivityVideoPlayer2Binding

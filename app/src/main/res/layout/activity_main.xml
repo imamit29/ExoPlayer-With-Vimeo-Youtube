@@ -15,11 +15,26 @@
         android:text="@string/radio_player"
         android:textAllCaps="false" />
 
-    <Button
-        android:id="@+id/btnVideoPlayer"
+
+    <com.google.android.material.progressindicator.LinearProgressIndicator
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/video_player"
+        android:visibility="gone"
+        android:id="@+id/progress"
+        android:indeterminate="true" />
+
+    <Button
+        android:id="@+id/btnVimeoVideoPlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vimeo Player"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnYoutubeVideoPlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Youtube Player"
         android:textAllCaps="false" />
 
 

@@ -50,7 +50,9 @@ dependencies {
     // full exoplayer library
     implementation 'com.google.android.exoplayer:exoplayer:2.13.2'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-
+    implementation 'com.github.ed-george:AndroidVimeoExtractor:1.2.1'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT'
 }
 repositories {
     mavenCentral()
