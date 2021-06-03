@@ -4,23 +4,7 @@
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\exo_playback_control_view.xml",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\exo_playback_control_view.xml"
-    },
-    {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_radio_player.xml",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_radio_player.xml"
-    },
-    {
         "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_video_player.xml",
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_video_player.xml"
-    },
-    {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_video_player2.xml",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_video_player2.xml"
-    },
-    {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\exo_simple_player_view.xml",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\exo_simple_player_view.xml"
     }
 ]

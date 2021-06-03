@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.exoplayersample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.exoplayer:exoplayer-core:2.13.2] C:\Users\India\.gradle\caches\transforms-2\files-2.1\8a4a11f864bee761b05cb60353091894\jetified-exoplayer-core-2.13.2\AndroidManifest.xml:24:5-79
+12-->[com.google.android.exoplayer:exoplayer-core:2.13.2] C:\Users\India\.gradle\caches\transforms-2\files-2.1\8a4a11f864bee761b05cb60353091894\jetified-exoplayer-core-2.13.2\AndroidManifest.xml:24:22-76
+13
+14    <application
+14-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:7:5-35:19
+15        android:allowBackup="true"
+15-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.2] C:\Users\India\.gradle\caches\transforms-2\files-2.1\b4a4e2693d052802666bef6cc39feff5\core-1.3.2\AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:10:9-41
+19        android:supportsRtl="true"
+19-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:11:9-35
+20        android:theme="@style/AppTheme"
+20-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:13:9-40
+21        android:usesCleartextTraffic="true" >
+21-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:12:9-44
+22        <activity android:name="ExoPlayer.MainActivity" >
+22-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:9-20:20
+22-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:19-56
+23            <intent-filter>
+23-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:16:17-69
+24-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:17-77
+26-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:9-34:20
+30            android:name="ExoPlayer.VideoPlayerActivity"
+30-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:19-63
+31            android:configChanges="keyboardHidden|orientation|screenSize"
+31-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:22:13-74
+32            android:launchMode="singleTop"
+32-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:23:13-43
+33            android:theme="@style/PlayerTheme" >
+33-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:24:13-47
+34            <intent-filter>
+34-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:25:13-33:29
+35                <action android:name="com.google.android.exoplayer.demo.action.VIEW" />
+35-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:17-87
+35-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:25-85
+36
+37                <category android:name="android.intent.category.DEFAULT" />
+37-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:17-75
+37-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:27-73
+38
+39                <data android:scheme="http" />
+39-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
+39-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
+40                <data android:scheme="https" />
+40-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
+40-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
+41                <data android:scheme="content" />
+41-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
+41-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
+42                <data android:scheme="asset" />
+42-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
+42-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
+43                <data android:scheme="file" />
+43-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
+43-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
+44            </intent-filter>
+45        </activity>
+46    </application>
+47
+48</manifest>

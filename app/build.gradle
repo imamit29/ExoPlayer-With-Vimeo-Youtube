@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.yusufcakmak.exoplayersample"
+        applicationId "com.exoplayersample"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
@@ -53,6 +53,8 @@ dependencies {
     implementation 'com.github.ed-george:AndroidVimeoExtractor:1.2.1'
     implementation 'com.google.android.material:material:1.3.0'
     implementation 'com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT'
+    androidTestImplementation 'junit:junit:4.12'
+    androidTestImplementation 'junit:junit:4.12'
 }
 repositories {
     mavenCentral()

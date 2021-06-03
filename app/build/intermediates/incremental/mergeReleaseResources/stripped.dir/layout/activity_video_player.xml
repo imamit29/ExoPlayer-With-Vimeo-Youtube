@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:focusable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <com.google.android.exoplayer2.ui.PlayerView
+        android:id="@+id/playerView"
+        android:focusable="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"/>
+
+    </com.google.android.exoplayer2.ui.PlayerView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:id="@+id/vImage"
+        android:layout_margin="10dp"
+        android:src="@drawable/ic_vimeo"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:id="@+id/yImage"
+        android:layout_margin="10dp"
+        android:src="@drawable/ic_youtube"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="20dp"
+        android:orientation="horizontal"
+        android:id="@+id/options"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/fullscreenButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/ic_fullscreen_open"/>
+
+        <TextView
+            android:id="@+id/speed"
+            android:layout_width="40dp"
+            android:layout_height="24dp"
+            android:layout_marginRight="10dp"
+            android:onClick="speedClick"
+            android:gravity="center"
+            android:text="NOR"
+            android:textColor="@color/exo_white"
+            android:background="#373F75"
+            android:src="@drawable/ic_fullscreen_open"/>
+
+        <ImageView
+            android:id="@+id/menu"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:onClick="qualityClick"
+            android:src="@drawable/ic_menu"/>
+
+    </LinearLayout>
+
+</FrameLayout>

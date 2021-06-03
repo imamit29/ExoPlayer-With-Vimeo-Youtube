@@ -4,10 +4,6 @@
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
     },
     {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_exo_simple_player_view.xml.flat",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\exo_simple_player_view.xml"
-    },
-    {
         "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pausecontrol.png.flat",
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\pausecontrol.png"
     },
@@ -64,10 +60,6 @@
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
     },
     {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_radio_player.xml.flat",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_radio_player.xml"
-    },
-    {
         "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -88,16 +80,8 @@
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\ic_hide.xml"
     },
     {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_player2.xml.flat",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_video_player2.xml"
-    },
-    {
         "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_exo_playback_control_view.xml.flat",
-        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\exo_playback_control_view.xml"
     },
     {
         "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",

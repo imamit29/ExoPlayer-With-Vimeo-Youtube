@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_progressbar_thumb.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\progressbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_hide.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\ic_hide.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_progressbar.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_items.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\menu\\menu_items.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_playcontrol.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\playcontrol.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_settings.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_progressbar_bg_filled.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\progressbar_bg_filled.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_youtube.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\ic_youtube.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_pausecontrol.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\pausecontrol.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_fullscreen_open.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\ic_fullscreen_open.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_settings.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_progressbar_bg_empty.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\progressbar_bg_empty.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_fullscreen_close.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\ic_fullscreen_close.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_settings.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_video_player.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_vimeo.xml.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\drawable\\ic_vimeo.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

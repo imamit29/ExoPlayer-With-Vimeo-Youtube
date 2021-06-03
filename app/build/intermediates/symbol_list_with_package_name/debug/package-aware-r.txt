@@ -1,4 +1,4 @@
-com.yusufcakmak.exoplayersample
+com.exoplayersample
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1948,10 +1948,6 @@ id beginning
 id blocking
 id bottom
 id bounce
-id btnChangeRepeatMode
-id btnRadioPlayer
-id btnStart
-id btnStop
 id btnVimeoVideoPlayer
 id btnYoutubeVideoPlayer
 id buttonPanel
@@ -2250,7 +2246,6 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
-id settings
 id seven
 id shortcut
 id showCustom
@@ -2417,9 +2412,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
-layout activity_radio_player
 layout activity_video_player
-layout activity_video_player2
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2437,10 +2430,8 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout exo_list_divider
-layout exo_playback_control_view
 layout exo_player_control_view
 layout exo_player_view
-layout exo_simple_player_view
 layout exo_styled_player_control_ffwd_button
 layout exo_styled_player_control_rewind_button
 layout exo_styled_player_control_view

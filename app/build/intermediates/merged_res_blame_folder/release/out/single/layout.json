@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_video_player.xml",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "E:\\ExoPlayerSample\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\ExoPlayerSample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

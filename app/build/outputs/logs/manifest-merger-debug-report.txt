@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\India\.gradle\caches\transforms-2\files-2.1\912734335cd776899beee04377e88c94\jetified-viewbinding-4.1.3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\India\.gradle\caches\transforms-2\files-2.1\9bc8f49ff8d3c635fe436c81695922cf\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\India\.gradle\caches\transforms-2\files-2.1\5a502ed2278d8052650716d61893cd7a\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
@@ -51,20 +51,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\India\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\India\.gradle\caches\transforms-2\files-2.1\ececd3835678e9aade90d873f4791f3d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\India\.gradle\caches\transforms-2\files-2.1\cefb13d094471b799f81267458906b2b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\India\.gradle\caches\transforms-2\files-2.1\146d9606179ad789ff06a3de68cc2316\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:3:5-46
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
 		INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:2:11-69
@@ -75,7 +75,7 @@ MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT]
 	android:name
 		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:7:5-36:19
+ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:7:5-35:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\India\.gradle\caches\transforms-2\files-2.1\9bc8f49ff8d3c635fe436c81695922cf\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\India\.gradle\caches\transforms-2\files-2.1\9bc8f49ff8d3c635fe436c81695922cf\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\India\.gradle\caches\transforms-2\files-2.1\5a502ed2278d8052650716d61893cd7a\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -102,10 +102,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\In
 		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:13:9-40
 	android:usesCleartextTraffic
 		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:12:9-44
-activity#com.yusufcakmak.exoplayersample.MainActivity
+activity#ExoPlayer.MainActivity
 ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:19-56
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
@@ -116,34 +116,30 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.yusufcakmak.exoplayersample.RadioPlayerActivity
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:9-56
-	android:name
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:19-54
-activity#com.yusufcakmak.exoplayersample.VideoPlayerActivity
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:22:9-35:20
+activity#ExoPlayer.VideoPlayerActivity
+ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:9-34:20
 	android:launchMode
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:24:13-43
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:23:13-43
 	android:configChanges
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:23:13-74
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:22:13-74
 	android:theme
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:25:13-47
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:24:13-47
 	android:name
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:22:19-54
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:19-63
 intent-filter#action:name:com.google.android.exoplayer.demo.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:asset+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:13-34:29
+ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:25:13-33:29
 action#com.google.android.exoplayer.demo.action.VIEW
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:17-87
+ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:17-87
 	android:name
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:25-85
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:25-85
 category#android.intent.category.DEFAULT
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-75
+ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:17-75
 	android:name
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:27-73
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:27-73
 data
-ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:29:17-46
+ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
 	android:scheme
-		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:29:23-44
+		ADDED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
 uses-sdk
 INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\ExoPlayerSample\app\src\main\AndroidManifest.xml

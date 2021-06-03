@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yusufcakmak.exoplayersample">
+    package="com.exoplayersample">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -11,15 +11,14 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="ExoPlayer.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RadioPlayerActivity"/>
-        <activity android:name=".VideoPlayerActivity"
+        <activity android:name="ExoPlayer.VideoPlayerActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:launchMode="singleTop"
             android:theme="@style/PlayerTheme">
