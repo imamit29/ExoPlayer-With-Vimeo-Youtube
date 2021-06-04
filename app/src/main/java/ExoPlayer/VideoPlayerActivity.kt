@@ -11,6 +11,7 @@ import android.widget.Toast
 import at.huber.youtubeExtractor.VideoMeta
 import at.huber.youtubeExtractor.YouTubeExtractor
 import at.huber.youtubeExtractor.YtFile
+import com.exoplayersample.databinding.ActivityVideoPlayerBinding
 import com.google.android.exoplayer2.*
 import com.google.android.exoplayer2.source.DefaultMediaSourceFactory
 import com.google.android.exoplayer2.source.MediaSourceFactory
@@ -20,7 +21,6 @@ import com.google.android.exoplayer2.ui.PlayerControlView
 import com.google.android.exoplayer2.upstream.DataSource
 import com.google.android.exoplayer2.upstream.DefaultDataSourceFactory
 import com.google.android.exoplayer2.util.Util
-import com.yusufcakmak.exoplayersample.databinding.ActivityVideoPlayerBinding
 import vimeoextractor.OnVimeoExtractionListener
 import vimeoextractor.VimeoExtractor
 import vimeoextractor.VimeoVideo

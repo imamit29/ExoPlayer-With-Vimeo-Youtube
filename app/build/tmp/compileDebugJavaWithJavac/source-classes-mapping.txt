@@ -1,6 +1,6 @@
-com/yusufcakmak/exoplayersample/databinding/ActivityMainBinding.java
- com.yusufcakmak.exoplayersample.databinding.ActivityMainBinding
-com/yusufcakmak/exoplayersample/BuildConfig.java
- com.yusufcakmak.exoplayersample.BuildConfig
-com/yusufcakmak/exoplayersample/databinding/ActivityVideoPlayerBinding.java
- com.yusufcakmak.exoplayersample.databinding.ActivityVideoPlayerBinding
+com/exoplayersample/databinding/ActivityMainBinding.java
+ com.exoplayersample.databinding.ActivityMainBinding
+com/exoplayersample/databinding/ActivityVideoPlayerBinding.java
+ com.exoplayersample.databinding.ActivityVideoPlayerBinding
+com/exoplayersample/BuildConfig.java
+ com.exoplayersample.BuildConfig

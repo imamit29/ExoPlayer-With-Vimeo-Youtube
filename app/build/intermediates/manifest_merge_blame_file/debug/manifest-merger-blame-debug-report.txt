@@ -30,62 +30,61 @@
 19-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:10:9-41
 20        android:supportsRtl="true"
 20-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:11:9-35
-21        android:testOnly="true"
-22        android:theme="@style/AppTheme"
-22-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:13:9-40
-23        android:usesCleartextTraffic="true" >
-23-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:12:9-44
-24        <activity android:name="ExoPlayer.MainActivity" >
-24-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:9-20:20
-24-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:19-56
-25            <intent-filter>
-25-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:15:13-19:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:16:17-69
-26-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:16:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:17-77
-28-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:27-74
-29            </intent-filter>
-30        </activity>
-31        <activity
-31-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:9-34:20
-32            android:name="ExoPlayer.VideoPlayerActivity"
-32-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:19-63
-33            android:configChanges="keyboardHidden|orientation|screenSize"
-33-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:22:13-74
-34            android:launchMode="singleTop"
-34-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:23:13-43
-35            android:theme="@style/PlayerTheme" >
-35-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:24:13-47
-36            <intent-filter>
-36-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:25:13-33:29
-37                <action android:name="com.google.android.exoplayer.demo.action.VIEW" />
-37-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:17-87
-37-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:25-85
-38
-39                <category android:name="android.intent.category.DEFAULT" />
-39-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:17-75
-39-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:27-73
-40
-41                <data android:scheme="http" />
+21        android:theme="@style/AppTheme"
+21-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:13:9-40
+22        android:usesCleartextTraffic="true" >
+22-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:12:9-44
+23        <activity android:name="ExoPlayer.MainActivity" >
+23-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:9-20:20
+23-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:14:19-56
+24            <intent-filter>
+24-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:15:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:16:17-69
+25-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:17-77
+27-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:9-34:20
+31            android:name="ExoPlayer.VideoPlayerActivity"
+31-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:21:19-63
+32            android:configChanges="keyboardHidden|orientation|screenSize"
+32-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:22:13-74
+33            android:launchMode="singleTop"
+33-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:23:13-43
+34            android:theme="@style/PlayerTheme" >
+34-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:24:13-47
+35            <intent-filter>
+35-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:25:13-33:29
+36                <action android:name="com.google.android.exoplayer.demo.action.VIEW" />
+36-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:17-87
+36-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:26:25-85
+37
+38                <category android:name="android.intent.category.DEFAULT" />
+38-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:17-75
+38-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:27:27-73
+39
+40                <data android:scheme="http" />
+40-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
+40-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
+41                <data android:scheme="https" />
 41-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
 41-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
-42                <data android:scheme="https" />
+42                <data android:scheme="content" />
 42-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
 42-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
-43                <data android:scheme="content" />
+43                <data android:scheme="asset" />
 43-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
 43-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
-44                <data android:scheme="asset" />
+44                <data android:scheme="file" />
 44-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
 44-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
-45                <data android:scheme="file" />
-45-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:17-46
-45-->E:\ExoPlayerSample\app\src\main\AndroidManifest.xml:28:23-44
-46            </intent-filter>
-47        </activity>
-48    </application>
-49
-50</manifest>
+45            </intent-filter>
+46        </activity>
+47    </application>
+48
+49</manifest>
